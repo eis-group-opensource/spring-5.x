@@ -1,0 +1,5 @@
+Changes in 5.0.5-e2:
+- Exclusion of spring-jcl library from packaging into final jar package
+Changes in 5.0.5-e1:
+- Inject annotation resolver addition for AutowiredAnnotationBeanPostProcessor including resolved concurent bean caching whereas not resolved beans saved as NULL_VALUE. 
+	
